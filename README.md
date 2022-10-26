@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Khisa-patience
 - 👀 I’m interested in learning network security
 - 🌱 I’m currently learning web application security
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on creating a complete dynamic website
 - 📫 How to reach me ...
 
 <!---
